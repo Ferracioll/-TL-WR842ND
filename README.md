@@ -31,7 +31,7 @@ Este guia ensina como configurar o roteador **TL-WR842ND** para **repetir o sina
 
 ---
 
-## CONFIGURAÇÃO COMO REPETIDOR:
+## CONFIGURAÇÃO COMO ROTEADOR:
 
 ### 1 - Acessar o painel do roteador:
 
